@@ -1,5 +1,5 @@
+json
 ucimlrepo
-matplotlib
 numpy
 seaborn
 pandas
@@ -15,3 +15,5 @@ dtreeviz
 mlrose-hiive
 bettermdptools
 gymnasium
+matplotlib
+ydata-profiling

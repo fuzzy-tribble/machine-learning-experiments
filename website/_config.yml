@@ -31,8 +31,8 @@ nb_info: >-
   </sup></sub>
 
 # Customize navigation links
-header_pages:
-  - pages/about.md
+# header_pages:
+#   - pages/about.md
 
 # Build settings
 remote_theme: fuzzy-tribble/minima-ipynb
@@ -50,4 +50,4 @@ plugins:
 minima:
   social_links:
     github: fuzzy-tribble
-    youtube: jekyll
+    # youtube: jekyll

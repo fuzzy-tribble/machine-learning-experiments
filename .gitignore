@@ -17,7 +17,7 @@ __pycache__
 
 # for how ignore .cache, data, figs, results
 .cache
-data
+# data
 
 # notebooks that end in -TODO
 *TODO.ipynb
