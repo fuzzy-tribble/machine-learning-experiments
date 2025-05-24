@@ -42,7 +42,7 @@ Decision Trees are a white-box model used for both classification and regression
 **Good for:**
 - Small to medium datasets with discrete or mixed-type features.
 - Data with missing values or label noise.
-- Interpretability is important.
+- Interpretability is easy to understand.
 
 **Less ideal for:**
 - High-dimensional data (prone to overfitting).
